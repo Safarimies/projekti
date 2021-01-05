@@ -1,5 +1,3 @@
-import datetime
+from datetime import datetime as d
 
-t = datetime.datetime.now()
-
-print(t)
+print(d())
