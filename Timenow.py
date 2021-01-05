@@ -1,3 +1,3 @@
 from datetime import datetime as d
 
-print(d())
+print(d.now())
